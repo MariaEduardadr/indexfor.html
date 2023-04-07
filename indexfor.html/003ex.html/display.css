@@ -1,0 +1,18 @@
+h1 {
+    width: calc(33% - 16px);
+}
+
+/* sexo f ou m*/
+select {
+    display: inline-block;
+    width: calc(40% - 40px);
+    margin: 8px;
+}
+/*informações */
+input {
+    margin: 10px;
+}
+
+form{
+    width: calc(33% - 16px);
+}
